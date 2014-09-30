@@ -1,0 +1,14 @@
+2014-09-30 15:37:26,710 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Skeleton:Skeleton:1.0 @ /Users/THUNDERINPARADISE/git/ese2014_warmup2/Skeleton/pom.xml.
+2014-09-30 15:37:26,916 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Skeleton:Skeleton:1.0 @ /Users/THUNDERINPARADISE/git/ese2014_warmup2/Skeleton/pom.xml.
+2014-09-30 15:37:29,690 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Skeleton:Skeleton:1.0 @ /Users/THUNDERINPARADISE/git/ese2014_warmup2/Skeleton/pom.xml.
+2014-09-30 15:37:29,736 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-30 15:37:29,736 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/THUNDERINPARADISE/git/ese2014_warmup2/Skeleton/src/main/resources
+2014-09-30 15:37:29,736 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/THUNDERINPARADISE/git/ese2014_warmup2/Skeleton/src/main/resources
+2014-09-30 15:37:29,739 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-30 15:37:29,739 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/THUNDERINPARADISE/git/ese2014_warmup2/Skeleton/src/test/resources
+2014-09-30 15:37:30,703 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: Skeleton:Skeleton:1.0 @ /Users/THUNDERINPARADISE/git/ese2014_warmup2/Skeleton/pom.xml.
+2014-09-30 15:37:32,215 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-30 15:37:32,216 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/THUNDERINPARADISE/git/ese2014_warmup2/Skeleton/src/main/resources
+2014-09-30 15:37:32,216 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/THUNDERINPARADISE/git/ese2014_warmup2/Skeleton/src/main/resources
+2014-09-30 15:37:32,218 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-09-30 15:37:32,218 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/THUNDERINPARADISE/git/ese2014_warmup2/Skeleton/src/test/resources
